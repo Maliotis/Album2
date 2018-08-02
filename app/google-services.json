@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "828510665348",
+    "firebase_url": "https://album-bc8be.firebaseio.com",
+    "project_id": "album-bc8be",
+    "storage_bucket": "album-bc8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828510665348:android:51e097deae6a3240",
+        "android_client_info": {
+          "package_name": "com.college.album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828510665348-o4lkrc0i5l9r2qbnlplijka21n5b4san.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.college.album",
+            "certificate_hash": "568d860129dec83d82244627be7214fdc372468f"
+          }
+        },
+        {
+          "client_id": "828510665348-b1e68h8foikohu7nqglr4j32mdnngish.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBoyIqdJ3cLrATl7HGlKLz4eJ2AYLcNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828510665348-b1e68h8foikohu7nqglr4j32mdnngish.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
